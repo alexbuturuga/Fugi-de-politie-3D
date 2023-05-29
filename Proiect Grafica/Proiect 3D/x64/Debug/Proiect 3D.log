@@ -1,1 +1,39 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(442,5): error MSB8020: The build tools for Visual Studio 2019 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, please install Visual Studio 2019 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  glm.cpp
+  main.cpp
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(16,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(427,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(427,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(432,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(432,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(439,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(439,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(454,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(455,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(460,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(461,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(464,11): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(468,11): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(485,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(486,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(490,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\main.cpp(491,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  imageloader.cpp
+  loadShaders.cpp
+  Generating Code...
+  glad.c
+  Proiect 3D.vcxproj -> C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\x64\Debug\Proiect 3D.exe
+  C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\lib\x64\GL\DLLs\freeglut.dll
+  C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\lib\x64\GL\DLLs\glew32.dll
+  2 File(s) copied
+  C:\Users\Administrator\source\repos\Fugi de politie 3D\Proiect Grafica\Proiect 3D\lib\x64\GLFW\DLLs\glfw3.dll
+  1 File(s) copied
